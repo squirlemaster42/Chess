@@ -2,12 +2,15 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="gwt" url="file://$PROJECT_DIR$/../../guava-23.5/guava-gwt" />
+    <file type="gwt" url="file://Z:/Java Libs/guava-23.5/guava-gwt" />
     <file type="Osmorc" url="file://$PROJECT_DIR$/../../guava-23.5/guava" />
+    <file type="Osmorc" url="file://Z:/Java Libs/guava-23.5/guava" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../../guava-23.5/pom.xml" />
+        <option value="Z:/Java Libs/guava-23.5/pom.xml" />
       </list>
     </option>
   </component>

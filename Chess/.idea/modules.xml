@@ -3,10 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Chess.iml" filepath="$PROJECT_DIR$/Chess.iml" />
+      <module fileurl="file://Z:/Java Libs/guava-23.5/guava/guava.iml" filepath="Z:/Java Libs/guava-23.5/guava/guava.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../guava-23.5/guava/guava.iml" filepath="$PROJECT_DIR$/../../guava-23.5/guava/guava.iml" />
+      <module fileurl="file://Z:/Java Libs/guava-23.5/guava-gwt/guava-gwt.iml" filepath="Z:/Java Libs/guava-23.5/guava-gwt/guava-gwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../guava-23.5/guava-gwt/guava-gwt.iml" filepath="$PROJECT_DIR$/../../guava-23.5/guava-gwt/guava-gwt.iml" />
+      <module fileurl="file://Z:/Java Libs/guava-23.5/guava-parent.iml" filepath="Z:/Java Libs/guava-23.5/guava-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../guava-23.5/guava-parent.iml" filepath="$PROJECT_DIR$/../../guava-23.5/guava-parent.iml" />
+      <module fileurl="file://Z:/Java Libs/guava-23.5/guava-testlib/guava-testlib.iml" filepath="Z:/Java Libs/guava-23.5/guava-testlib/guava-testlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../guava-23.5/guava-testlib/guava-testlib.iml" filepath="$PROJECT_DIR$/../../guava-23.5/guava-testlib/guava-testlib.iml" />
+      <module fileurl="file://Z:/Java Libs/guava-23.5/guava-tests/guava-tests.iml" filepath="Z:/Java Libs/guava-23.5/guava-tests/guava-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../guava-23.5/guava-tests/guava-tests.iml" filepath="$PROJECT_DIR$/../../guava-23.5/guava-tests/guava-tests.iml" />
     </modules>
   </component>
